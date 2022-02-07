@@ -1,0 +1,4 @@
+<servidor>localhost</servidor>
+<nomeDb>dbTeste</nomeDb>
+<usuario>root</usuario>
+<senha>Qc5qtygk</senha>
